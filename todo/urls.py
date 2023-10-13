@@ -9,7 +9,7 @@ from todo.views import (
     TagCreateView,
     TagUpdateView,
     TagDeleteView,
-    TaskIsDoneView
+    TaskIsDoneView,
 )
 
 
