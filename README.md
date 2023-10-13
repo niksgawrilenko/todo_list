@@ -22,7 +22,6 @@ This project is a web application for managing tasks and tags. Users can create,
 
    ```bash
    git clone https://github.com/niksgawrilenko/todo_list
-   git checkout develop
    cd todo_list
    python -m venv venv #(On Windows)
    venv\Scripts\activate #On macOS and Linux
