@@ -7,3 +7,5 @@ __pycache__/
 *.pyd
 .env
 todo_list/__pycache__/settings.cpython-311.pyc
+__pycache__/*.pyc
+**/__pycache__/*.pyc
